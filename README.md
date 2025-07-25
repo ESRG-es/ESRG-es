@@ -4,3 +4,5 @@
 *Yo solo finjo que lo controlo.*
 
 <img src="assets/braceR.png" width="40"/>
+
+<img src="assets/sebas.png" alt="Sebastián" width="100"/>
