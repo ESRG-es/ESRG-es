@@ -10,7 +10,6 @@ Ya sea que busques integrar una herramienta a tu flujo de trabajo, explorar proy
 
 
 ## RECURSOS Y SERVICIOS
-- [Bintary Converter](**bintary-converter**)
 
 <img src="assets/bintaryConverter_footer.png" width="100"/> <img src="assets/braceL_esrg.png" width="40"/>
 
