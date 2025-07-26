@@ -1,4 +1,4 @@
-# 📁 Catálogo de Recursos y Servicios – ESRG
+# Catálogo de Recursos y Servicios – ESRG
 
 Este documento presenta de forma estructurada los recursos, servicios y contenidos técnicos desarrollados y ofrecidos por **ESRG**. Su objetivo principal es proporcionar un punto de referencia claro, confiable y actualizado sobre las capacidades y soluciones que se ofrecen en los campos del desarrollo de software, automatización de procesos, generación de contenido digital y apoyo técnico especializado.
 
@@ -6,13 +6,17 @@ El contenido aquí reunido está orientado tanto a colaboradores como a organiza
 
 Ya sea que busques integrar una herramienta a tu flujo de trabajo, explorar proyectos open source, solicitar un desarrollo a medida, o simplemente conocer más sobre mi enfoque profesional, este espacio está diseñado para facilitar el acceso a dicha información de forma clara y ordenada.
 
+
+
+
 ## RECURSOS Y SERVICIOS
+- [Bintary Converter](**bintary-converter**)
 
 <img src="assets/bintaryConverter_footer.png" width="100"/> <img src="assets/braceL_esrg.png" width="40"/>
 
 <img src="assets/bintaryConverter_icon.png" width="650"/> 
 
-Bintary Converter es una herramienta técnica desarrollada para realizar **conversiones precisas entre números en sistema binario y sistema decimal.** Su diseño minimalista y enfoque funcional lo convierten en una solución eficiente tanto para entornos educativos como profesionales.
+**Bintary Converter** es una herramienta técnica desarrollada para realizar **conversiones precisas entre números en sistema binario y sistema decimal.** Su diseño minimalista y enfoque funcional lo convierten en una solución eficiente tanto para entornos educativos como profesionales.
 
 El software permite al usuario ingresar un valor en cualquiera de los dos sistemas numéricos y obtener su equivalente de forma inmediata. Su uso es especialmente útil para estudiantes de informática, docentes, desarrolladores y técnicos que requieran validar conversiones numéricas como parte de sus procesos de aprendizaje o trabajo.
 
