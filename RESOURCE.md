@@ -21,6 +21,14 @@ El software permite al usuario ingresar un valor en cualquiera de los dos sistem
 
 Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una interfaz limpia, sin elementos innecesarios, facilitando una experiencia de uso directa y sin distracciones. Está pensado como una herramienta de consulta rápida, ideal para complementar actividades relacionadas con lógica computacional, arquitectura de computadores y programación de bajo nivel. 
 
+![Versión](https://img.shields.io/badge/Versión-1.1.1-blue)
+![Java](https://img.shields.io/badge/Java-compatible-informational)
+![Obra](https://img.shields.io/badge/Obra-ob4.4es-purple)
+![Estado](https://img.shields.io/badge/Estado-Estable-brightgreen)
+![Formato](https://img.shields.io/badge/Formato-.JAR-lightgrey)
+[![Requiere](https://img.shields.io/badge/Requiere-Java%20JRE-orange)](https://www.java.com/es/download/)
+
+
 **Repositorio** https://www.repository/BintaryConverter:GitHub.com
 
 || **VERSIÓN** 1.1.1 Java |
@@ -29,8 +37,6 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
 |  **Descargar**  |  https://www.mediafire.com/file/fz50vjkox10jmdn/Bintary_%255BVersi%25C3%25B3n_1.1.1_Java%255D.zip/file   | 
 |  **Descargar**  |  https://mega.nz/file/DCQXmaYK#fo24iLe9Q5TAhvDjSUur0OXXHw_hFPALZFLSXUxU3RQ  |
 
+
 >Archivo .JAR: requiere Java Runtime Environment (JRE) para ejecutarse.
-
-
-
 <img src="assets/braceR_esrg.png" width="40"/>
