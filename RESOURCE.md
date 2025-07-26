@@ -8,8 +8,7 @@ El software permite al usuario ingresar un valor en cualquiera de los dos sistem
 
 Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una interfaz limpia, sin elementos innecesarios, facilitando una experiencia de uso directa y sin distracciones. Está pensado como una herramienta de consulta rápida, ideal para complementar actividades relacionadas con lógica computacional, arquitectura de computadores y programación de bajo nivel. 
 
-###   
-### 
+**Repositorio** https://www.repository/BintaryConverter:GitHub.com
 
 || **VERSIÓN** 1.1.1 Java |
 |-|-|
