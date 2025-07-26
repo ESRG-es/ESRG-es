@@ -1,6 +1,6 @@
-<img src="assets/bintaryConverter_footer.png" width="100"/> <img src="assets/braceL.png" width="40"/>
+<img src="assets/bintaryConverter_footer.png" width="100"/> <img src="assets/braceL_esrg.png" width="40"/>
 
-<img src="assets/bintaryConverter_title.png" width="650"/> 
+<img src="assets/bintaryConverter_icon.png" width="650"/> 
 
 Bintary Converter es una herramienta técnica desarrollada para realizar **conversiones precisas entre números en sistema binario y sistema decimal.** Su diseño minimalista y enfoque funcional lo convierten en una solución eficiente tanto para entornos educativos como profesionales.
 
@@ -21,4 +21,4 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
 
 
 
-<img src="assets/braceR.png" width="40"/>
+<img src="assets/braceR_esrg.png" width="40"/>
