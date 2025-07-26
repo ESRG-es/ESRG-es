@@ -1,8 +1,8 @@
-<img src="assets/esrg.png" width="100"/> <img src="assets/braceL.png" width="40"/>
+<img src="assets/bintaryConverter_footer.png" width="100"/> <img src="assets/braceL.png" width="40"/>
 
-<img src="assets/bintaryConverter.png" width="650"/> 
+<img src="assets/bintaryConverter_title.png" width="650"/> 
 
-Bintary Converter es una herramienta técnica desarrollada para realizar conversiones precisas entre números en sistema binario y sistema decimal. Su diseño minimalista y enfoque funcional lo convierten en una solución eficiente tanto para entornos educativos como profesionales.
+Bintary Converter es una herramienta técnica desarrollada para realizar **conversiones precisas entre números en sistema binario y sistema decimal.** Su diseño minimalista y enfoque funcional lo convierten en una solución eficiente tanto para entornos educativos como profesionales.
 
 El software permite al usuario ingresar un valor en cualquiera de los dos sistemas numéricos y obtener su equivalente de forma inmediata. Su uso es especialmente útil para estudiantes de informática, docentes, desarrolladores y técnicos que requieran validar conversiones numéricas como parte de sus procesos de aprendizaje o trabajo.
 
