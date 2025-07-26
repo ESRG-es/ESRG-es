@@ -44,6 +44,6 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
 |  **Descargar**  |  https://www.mediafire.com/file/fz50vjkox10jmdn/Bintary_%255BVersi%25C3%25B3n_1.1.1_Java%255D.zip/file   | 
 |  **Descargar**  |  https://mega.nz/file/DCQXmaYK#fo24iLe9Q5TAhvDjSUur0OXXHw_hFPALZFLSXUxU3RQ  |
 
->⚠️ Requiere Java Runtime Environment (JRE) versión X.X o superior para ejecutarse.
+>⚠️ Requiere Java Runtime Environment (JRE) versión 12 o superior para ejecutarse.
 
 <img src="assets/braceR_esrg.png" width="40"/>
