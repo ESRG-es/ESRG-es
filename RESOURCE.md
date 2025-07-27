@@ -6,17 +6,17 @@ El contenido aquí reunido está orientado tanto a colaboradores como a organiza
 
 Ya sea que busques integrar una herramienta a tu flujo de trabajo, explorar proyectos open source, solicitar un desarrollo a medida, o simplemente conocer más sobre mi enfoque profesional, este espacio está diseñado para facilitar el acceso a dicha información de forma clara y ordenada.
 
-<img src="assets/esrg_footer.png" width="80"/> <img src="assets/braceL_esrg.png" width="40"/>
+<img src="assets/esrg_footer.png" width="80"/> <img src="assets/braceL_137,0,0.png" width="40"/>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cada ejecutable lleva consigo una voluntad ajena,**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **un mandato silente que solo la máquina se atreve a obedecer.**
 
-<img src="assets/braceR_esrg.png" width="40"/>
+<img src="assets/braceR_137,0,0.png" width="40"/>
 
 ## RECURSOS Y SERVICIOS
 
-<img src="assets/bintaryConverter_footer.png" width="100"/> <img src="assets/braceL_esrg.png" width="40"/>
+<img src="assets/bintaryConverter_footer.png" width="100"/> <img src="assets/braceL_128,128,128.png" width="40"/>
 
 <img src="assets/bintaryConverter_icon.png" width="650"/> 
 
@@ -46,4 +46,4 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
 
 >⚠️ Requiere Java Runtime Environment (JRE) versión 12 o superior para ejecutarse.
 
-<img src="assets/braceR_esrg.png" width="40"/>
+<img src="assets/braceR_128,128,128.png" width="40"/>
