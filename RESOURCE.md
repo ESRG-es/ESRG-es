@@ -36,7 +36,7 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
 [![Requiere](https://img.shields.io/badge/Requiere-Java%20JRE-orange)](https://www.java.com/es/download/)
 
 
-**Repositorio** https://www.repository/BintaryConverter:GitHub.com
+**Repositorio** https://github.com/ESRG-es/BintaryConverter
 
 || **VERSIÓN** 1.1.1 Java |
 |-|-|
