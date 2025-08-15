@@ -1,4 +1,4 @@
-# Catálogo de Recursos y Servicios – ESRG
+# RECURSOS Y CONTENIDOS
 
 Este documento presenta de forma estructurada los recursos, servicios y contenidos técnicos desarrollados y ofrecidos por **ESRG**. Su objetivo principal es proporcionar un punto de referencia claro, confiable y actualizado sobre las capacidades y soluciones que se ofrecen en los campos del desarrollo de software, automatización de procesos, generación de contenido digital y apoyo técnico especializado.
 
