@@ -28,7 +28,7 @@ El software permite al usuario ingresar un valor en cualquiera de los dos sistem
 
 Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una interfaz limpia, sin elementos innecesarios, facilitando una experiencia de uso directa y sin distracciones. Está pensado como una herramienta de consulta rápida, ideal para complementar actividades relacionadas con lógica computacional, arquitectura de computadores y programación de bajo nivel. 
 
-![Versión](https://img.shields.io/badge/Versión-1.1.1-blue)
+![Versión](https://img.shields.io/badge/Versión-2.0-blue)
 ![Java](https://img.shields.io/badge/Java-compatible-informational)
 ![Obra](https://img.shields.io/badge/Obra-ob4.4es-purple)
 ![Estado](https://img.shields.io/badge/Estado-Estable-brightgreen)
@@ -38,13 +38,13 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
 
 **Repositorio** https://github.com/ESRG-es/BintaryConverter
 
-|| **VERSIÓN** 1.1.1 Java |
+|| **VERSIÓN** 2.0 Java |
 |-|-|
-|  **Descargar**  |  https://drive.google.com/file/d/1GO_nuj7LuIYvATlTfIYIix63a6gWg3lV/view?usp=sharing   |
-|  **Descargar**  |  https://www.mediafire.com/file/fz50vjkox10jmdn/Bintary_%255BVersi%25C3%25B3n_1.1.1_Java%255D.zip/file   | 
-|  **Descargar**  |  https://mega.nz/file/DCQXmaYK#fo24iLe9Q5TAhvDjSUur0OXXHw_hFPALZFLSXUxU3RQ  |
+|  **Descargar**  |  https://drive.google.com/file/d/1g490RnvadfHcJrEtdTB9TyWQ9y6eZzFP/view?usp=sharing  |
+|  **Descargar**  |  https://www.mediafire.com/file/6j0ei0edjvuldhc/Bintary_Converter_%255BVersi%25C3%25B3n_2.0_Java%255D.zip/file   | 
+|  **Descargar**  |  https://mega.nz/file/jSxkyART#198ps9nPXyZF4YdKNNWF5pqZ_Uy22sDiuSAuybNwybY  |
 
->⚠️ Requiere Java Runtime Environment (JRE) versión 12 o superior para ejecutarse.
+>⚠️ Requiere Java Runtime Environment (JRE) versión 8 o superior para ejecutarse.
 
 <img src="assets/braceR_128,128,128.png" width="40"/>
 
@@ -69,33 +69,25 @@ Es importante señalar que cualquier intento de acceso no autorizado, uso indebi
 ![Formato](https://img.shields.io/badge/Formato-.JAR-lightgrey)
 [![Requiere](https://img.shields.io/badge/Requiere-Java%20JRE-orange)](https://www.java.com/es/download/)
 
-> # Declaración de Uso y Contribución – Appiary
->
-> El proyecto **Appiary** es un desarrollo **privado y de carácter restringido**.  
-> Queda **prohibido su uso, distribución, modificación, copia o reproducción total o parcial** sin autorización expresa y por escrito de **ESRG**.
->
-> ## Condiciones
->
-> ### 1. Acceso restringido
-> Este repositorio **no es público**.  
-> El acceso se concede únicamente a personas y/o entidades autorizadas directamente por ESRG.
->
-> ### 2. Contribuciones
-> - No se aceptan contribuciones externas.  
-> - Cualquier propuesta de mejora, reporte de error o solicitud de cambio debe realizarse **exclusivamente a través de los canales oficiales** de ESRG.  
-> - Solo los colaboradores previamente aprobados podrán realizar _commits_, _pull requests_ o cualquier modificación al código.
->
-> ### 3. Propiedad intelectual
-> Todo el contenido de este repositorio, incluyendo pero no limitado a **código fuente, documentación, diseños, recursos gráficos y cualquier material adjunto**, es propiedad exclusiva de ESRG.
->
-> ### 4. Prohibición de uso indebido
-> Cualquier **uso no autorizado, explotación comercial o divulgación** de información contenida en este proyecto podrá ser **objeto de acciones legales**.
->
-> ### 5. Observación del repositorio
-> El acceso otorgado no implica autorización para **copiar, redistribuir o modificar** el contenido.  
-> La revisión del repositorio está limitada **únicamente a los fines internos definidos por ESRG**.
-> 
-> © ESRG. Todos los derechos reservados.
+##  Uso y Contribución
 
+### Acceso restringido
+El proyecto **Appiary** es un desarrollo **privado y de carácter restringido**.  
+Queda **prohibido su uso, distribución, modificación, copia o reproducción total o parcial** sin autorización expresa y por escrito de **ESRG**.
+
+### Contribuciones
+- No se aceptan contribuciones externas.
+- Cualquier propuesta de mejora, reporte de error o solicitud de cambio debe realizarse **exclusivamente a través de los canales oficiales** de ESRG.
+- Solo los colaboradores previamente aprobados podrán realizar _commits_, _pull requests_ o cualquier modificación al código.
+
+### Propiedad intelectual
+odo el contenido de este repositorio, incluyendo pero no limitado a **código fuente, documentación, diseños, recursos gráficos y cualquier material adjunto**, es propiedad exclusiva de ESRG.
+
+### Prohibición de uso indebido
+Cualquier **uso no autorizado, explotación comercial o divulgación** de información contenida en este proyecto podrá ser **objeto de acciones legales**.
+
+## Observación del repositorio
+El acceso otorgado no implica autorización para **copiar, redistribuir o modificar** el contenido.
+La revisión del repositorio está limitada **únicamente a los fines internos definidos por ESRG**.  
 
 <img src="assets/braceR_137,0,0.png" width="40"/>
