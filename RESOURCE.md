@@ -69,6 +69,8 @@ Es importante señalar que cualquier intento de acceso no autorizado, uso indebi
 ![Formato](https://img.shields.io/badge/Formato-.JAR-lightgrey)
 [![Requiere](https://img.shields.io/badge/Requiere-Java%20JRE-orange)](https://www.java.com/es/download/)
 
+Repositorio: https://github.com/ESRG-es/Appiary
+
 ##  Uso y Contribución
 
 ### Acceso restringido
@@ -86,8 +88,8 @@ odo el contenido de este repositorio, incluyendo pero no limitado a **código fu
 ### Prohibición de uso indebido
 Cualquier **uso no autorizado, explotación comercial o divulgación** de información contenida en este proyecto podrá ser **objeto de acciones legales**.
 
-## Observación del repositorio
-El acceso otorgado no implica autorización para **copiar, redistribuir o modificar** el contenido.
-La revisión del repositorio está limitada **únicamente a los fines internos definidos por ESRG**.  
+> Observación del repositorio
+> El acceso otorgado no implica autorización para **copiar, redistribuir o modificar** el contenido.
+> La revisión del repositorio está limitada **únicamente a los fines internos definidos por ESRG**.  
 
 <img src="assets/braceR_137,0,0.png" width="40"/>
