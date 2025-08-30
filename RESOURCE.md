@@ -52,7 +52,14 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
  
 <img src="assets/esrg_footer.png" width="80"/> <img src="assets/braceL_137,0,0.png" width="40"/>  
 
-<img src="assets/appiary_banner.png" width="1000"/>
+<p>
+  <img src="assets/appiary_banner.png" 
+       alt="Appiary" 
+       width="1000" 
+       height="201" 
+       style="border: 2px solid #ccc; border-radius: 10px;">
+</p>
+
 
 > Sistema para consultar servicios y contenidos de ESRG y fuentes externas autorizadas, con soporte para agregar y compartir recursos mediante enlaces URL.
 
