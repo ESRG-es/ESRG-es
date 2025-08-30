@@ -30,7 +30,7 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
 
 ![Versión](https://img.shields.io/badge/Versión-2.0-blue)
 ![Java](https://img.shields.io/badge/Java-compatible-informational)
-![Obra](https://img.shields.io/badge/Obra-ob4.4es-purple)
+![Obra](https://img.shields.io/badge/Obra-ob4.5es-purple)
 ![Estado](https://img.shields.io/badge/Estado-Estable-brightgreen)
 ![Formato](https://img.shields.io/badge/Formato-.JAR-lightgrey)
 [![Requiere](https://img.shields.io/badge/Requiere-Java%20JRE-orange)](https://www.java.com/es/download/)
@@ -54,6 +54,8 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
 
 <img src="assets/appiary_banner.png" width="1000"/>
 
+> Sistema para consultar servicios y contenidos de ESRG y fuentes externas autorizadas, con soporte para agregar y compartir recursos mediante enlaces URL.
+
 Este sistema ha sido desarrollado con el propósito de ofrecer una plataforma centralizada que permita la consulta de servicios y contenidos proporcionados directamente por ESRG, garantizando que la información disponible se mantenga actualizada, verificada y alineada con los objetivos establecidos por la organización. Además, la plataforma integra el acceso a fuentes externas que han sido previamente evaluadas y autorizadas, lo cual asegura la confiabilidad y pertinencia de los recursos incorporados.
 
 Dentro de sus funcionalidades, el sistema brinda a los usuarios la posibilidad de agregar, compartir y organizar recursos de forma eficiente mediante el uso de enlaces URL. Esta capacidad facilita la colaboración entre las entidades participantes, promueve un flujo constante de información y asegura que los recursos más relevantes se encuentren disponibles de manera ágil y accesible en todo momento.
@@ -71,21 +73,20 @@ Es importante señalar que cualquier intento de acceso no autorizado, uso indebi
 
 Repositorio: https://github.com/ESRG-es/Appiary
 
-##  Uso y Contribución
-
-### Acceso restringido
+###  Uso y Contribución  
+**Acceso restringido**  
 El proyecto **Appiary** es un desarrollo **privado y de carácter restringido**.  
 Queda **prohibido su uso, distribución, modificación, copia o reproducción total o parcial** sin autorización expresa y por escrito de **ESRG**.
 
-### Contribuciones
+**Contribuciones**
 - No se aceptan contribuciones externas.
 - Cualquier propuesta de mejora, reporte de error o solicitud de cambio debe realizarse **exclusivamente a través de los canales oficiales** de ESRG.
 - Solo los colaboradores previamente aprobados podrán realizar _commits_, _pull requests_ o cualquier modificación al código.
+  
+**Propiedad intelectual**  
+odo el contenido de este repositorio, incluyendo pero no limitado a **código fuente, documentación, diseños, recursos gráficos y cualquier material adjunto**, es propiedad exclusiva de ESRG.  
 
-### Propiedad intelectual
-odo el contenido de este repositorio, incluyendo pero no limitado a **código fuente, documentación, diseños, recursos gráficos y cualquier material adjunto**, es propiedad exclusiva de ESRG.
-
-### Prohibición de uso indebido
+**Prohibición de uso indebido**  
 Cualquier **uso no autorizado, explotación comercial o divulgación** de información contenida en este proyecto podrá ser **objeto de acciones legales**.
 
 > Observación del repositorio
