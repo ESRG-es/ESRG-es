@@ -53,7 +53,7 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
 <img src="assets/esrg_footer.png" width="80"/> <img src="assets/braceL_137,0,0.png" width="40"/>  
 
 <p>
-  <img src="assets/appiary_banner.png" 
+  <img src="assets/appiary_footer.png" 
        alt="Appiary" 
        width="1000" 
        height="201" 
