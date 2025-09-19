@@ -1,2 +1,0 @@
-# Bintary Converter
-## by: ESRG
