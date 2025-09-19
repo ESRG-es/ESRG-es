@@ -1,2 +1,0 @@
-# Appiary
-## by: ESRG
