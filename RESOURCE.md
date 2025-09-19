@@ -91,7 +91,7 @@ Queda **prohibido su uso, distribución, modificación, copia o reproducción to
 - Solo los colaboradores previamente aprobados podrán realizar _commits_, _pull requests_ o cualquier modificación al código.
   
 **Propiedad intelectual**  
-odo el contenido de este repositorio, incluyendo pero no limitado a **código fuente, documentación, diseños, recursos gráficos y cualquier material adjunto**, es propiedad exclusiva de ESRG.  
+Todo el contenido de este repositorio, incluyendo pero no limitado a **código fuente, documentación, diseños, recursos gráficos y cualquier material adjunto**, es propiedad exclusiva de ESRG.  
 
 **Prohibición de uso indebido**  
 Cualquier **uso no autorizado, explotación comercial o divulgación** de información contenida en este proyecto podrá ser **objeto de acciones legales**.
