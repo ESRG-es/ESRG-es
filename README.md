@@ -4,5 +4,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Yo solo finjo que lo controlo.*
 
 <img src="assets/braceR_137,0,0.png" width="40"/>
-
-<img src="assets/team.png" width="290"/> 
