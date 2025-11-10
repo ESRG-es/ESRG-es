@@ -1,20 +1,30 @@
-# SOFTWARE Y RECURSOS
+<html>
+    <h2 align="center">
+      <img src="assets/team.png" width="256"/>
+    </h2>
+    <h3 align="center">
+     SOFTWARE Y CONTENIDOS
+    </h3>
+    <h3 align="center">
+      Important Links:
+      <a href="https://github.com/ESRG-es/BintaryConverter">Bintary Converter</a> &
+      <a href="https://github.com/ESRG-es/Appiary">Appiary</a>
+    </h3>
+</html>
 
+
+<h3 align="center">
 Este documento presenta de forma estructurada los recursos, servicios y contenidos técnicos desarrollados y ofrecidos por **ESRG**. Su objetivo principal es proporcionar un punto de referencia claro, confiable y actualizado sobre las capacidades y soluciones que se ofrecen en los campos del desarrollo de software, automatización de procesos, generación de contenido digital y apoyo técnico especializado.
 
 El contenido aquí reunido está orientado tanto a colaboradores como a organizaciones, clientes o profesionales que requieran soluciones personalizadas, recursos reutilizables, o deseen conocer el alcance de las contribuciones técnicas disponibles. Asimismo, este archivo actúa como un portafolio dinámico que se actualiza de forma periódica conforme se incorporan nuevas herramientas, servicios o materiales de valor.
 
 Ya sea que busques integrar una herramienta a tu flujo de trabajo, explorar proyectos open source, solicitar un desarrollo a medida, o simplemente conocer más sobre mi enfoque profesional, este espacio está diseñado para facilitar el acceso a dicha información de forma clara y ordenada.
 
-<img src="assets/esrg_footer.png" width="80"/> <img src="assets/braceL_137,0,0.png" width="40"/>
+</h>
 
+---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cada ejecutable lleva consigo una voluntad ajena,**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **un mandato silente que solo la máquina se atreve a obedecer.**
-
-<img src="assets/braceR_137,0,0.png" width="40"/>
-
-## RECURSOS Y SERVICIOS
+## 
 
 <img src="assets/bintaryConverter_footer.png" width="100"/> <img src="assets/braceL_128,128,128.png" width="40"/>
 
@@ -99,5 +109,14 @@ Cualquier **uso no autorizado, explotación comercial o divulgación** de inform
 > Observación del repositorio
 > El acceso otorgado no implica autorización para **copiar, redistribuir o modificar** el contenido.
 > La revisión del repositorio está limitada **únicamente a los fines internos definidos por ESRG**.  
+
+<img src="assets/braceR_137,0,0.png" width="40"/>
+
+
+<img src="assets/esrg_footer.png" width="80"/> <img src="assets/braceL_137,0,0.png" width="40"/>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cada ejecutable lleva consigo una voluntad ajena,**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **un mandato silente que solo la máquina se atreve a obedecer.**
 
 <img src="assets/braceR_137,0,0.png" width="40"/>
