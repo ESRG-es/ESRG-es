@@ -1,31 +1,3 @@
-<html>
-    <h2 align="center">
-      <img src="assets/team.png" width="256"/>
-    </h2>
-    <h3 align="center">
-     SOFTWARE Y CONTENIDOS
-    </h3>
-    <h3 align="center">
-      Important Links:
-      <a href="https://github.com/ESRG-es/BintaryConverter">Bintary Converter</a> &
-      <a href="https://github.com/ESRG-es/Appiary">Appiary</a>
-    </h3>
-</html>
-
-
-<h3 align="center">
-Este documento presenta de forma estructurada los recursos, servicios y contenidos técnicos desarrollados y ofrecidos por **ESRG**. Su objetivo principal es proporcionar un punto de referencia claro, confiable y actualizado sobre las capacidades y soluciones que se ofrecen en los campos del desarrollo de software, automatización de procesos, generación de contenido digital y apoyo técnico especializado.
-
-El contenido aquí reunido está orientado tanto a colaboradores como a organizaciones, clientes o profesionales que requieran soluciones personalizadas, recursos reutilizables, o deseen conocer el alcance de las contribuciones técnicas disponibles. Asimismo, este archivo actúa como un portafolio dinámico que se actualiza de forma periódica conforme se incorporan nuevas herramientas, servicios o materiales de valor.
-
-Ya sea que busques integrar una herramienta a tu flujo de trabajo, explorar proyectos open source, solicitar un desarrollo a medida, o simplemente conocer más sobre mi enfoque profesional, este espacio está diseñado para facilitar el acceso a dicha información de forma clara y ordenada.
-
-</h>
-
----
-
-## 
-
 <img src="assets/bintaryConverter_footer.png" width="100"/> <img src="assets/braceL_128,128,128.png" width="40"/>
 
 <img src="assets/bintaryConverter_icon.png" width="650"/> 
