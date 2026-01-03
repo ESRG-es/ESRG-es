@@ -10,7 +10,7 @@ El software permite al usuario ingresar un valor en cualquiera de los dos sistem
 
 Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una interfaz limpia, sin elementos innecesarios, facilitando una experiencia de uso directa y sin distracciones. Está pensado como una herramienta de consulta rápida, ideal para complementar actividades relacionadas con lógica computacional, arquitectura de computadores y programación de bajo nivel. 
 
-![Versión](https://img.shields.io/badge/Versión-2.1-blue)
+![Versión](https://img.shields.io/badge/Versión-2.2-blue)
 ![Java](https://img.shields.io/badge/Java-compatible-informational)
 ![Obra](https://img.shields.io/badge/Obra-ob4.6es-purple)
 ![Estado](https://img.shields.io/badge/Estado-Estable-brightgreen)
