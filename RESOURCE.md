@@ -34,7 +34,7 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
  
 <img src="assets/esrg.png" width="80"/> <img src="assets/braceL_137,0,0.png" width="40"/>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cada ejecutable lleva consigo una voluntad ajena,**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **un mandato silente que solo la máquina se atreve a obedecer.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Porque de Jehová procede el conocimiento,**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **y sin Su ley, el código no es más que ruido en el vacío.**
 
 <img src="assets/braceR_137,0,0.png" width="40"/>
