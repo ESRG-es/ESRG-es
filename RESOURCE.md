@@ -1,3 +1,16 @@
+<div align="center">
+
+# REGISTRO DE ACTIVOS Y APLICACIONES
+
+Este archivo actúa como el índice maestro de los repositorios desarrollados por **ESRG-es**. Su función es catalogar, organizar y exponer sistemáticamente las aplicaciones, herramientas y módulos de código abierto que conforman nuestro ecosistema técnico. 
+
+A través de este registro, se facilita la trazabilidad de los proyectos, proporcionando acceso directo a los códigos fuente, binarios ejecutables y guías de implementación detalladas. Está diseñado para servir como punto de referencia centralizado para usuarios, desarrolladores y colaboradores que requieran soluciones estables y documentación técnica de alta fidelidad.
+
+---
+
+</div>
+
+
 <img src="assets/bintaryConverter.png" width="100"/> <img src="assets/braceL_128,128,128.png" width="40"/>
 
 <img src="assets/bintaryConverter_icon.png" width="650"/> 
