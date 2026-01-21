@@ -2,6 +2,8 @@
 
 <img src="assets/appiary.png" width="1000"/>
 
+---
+
 ### REGISTRO DE ACTIVOS Y APLICACIONES
 
 Este archivo actúa como el índice maestro de los repositorios desarrollados por **ESRG-es**. Su función es catalogar, organizar y exponer sistemáticamente las aplicaciones, herramientas y módulos de código abierto que conforman nuestro ecosistema técnico. 
