@@ -48,6 +48,36 @@ Bintary Converter ha sido optimizado para ofrecer un alto rendimiento con una in
 <img src="assets/braceR_128,128,128.png" width="40"/>
 
 ---
+
+<img src="assets/esrg.png" width="80"/> <img src="assets/braceL_137,0,0.png" width="40"/>
+
+<img src="assets/brace_cover.png" width="600"/>
+
+> BRACE es un sistema de gestión de datos y generación de plantillas jerárquicas desarrollado en Java. Su objetivo principal es facilitar la creación de estructuras JSON complejas mediante asistentes interactivos que garantizan la integridad de la sintaxis.
+
+**BRACE** Data Management System es una herramienta de Java diseñada para crear archivos JSON de forma fácil y sin errores de código mediante asistentes interactivos que guían al usuario paso a paso. El software organiza la información en tres niveles —Unit, Bundle y Cluster— permitiendo desde guardar una simple contraseña hasta gestionar listas complejas de datos, todo esto protegido por un sistema interno que coloca automáticamente las comas y llaves necesarias para que el archivo siempre funcione correctamente. Gracias a su diseño de consola minimalista, el usuario tiene el control total sobre dónde guardar sus archivos y cómo visualizarlos en tiempo real, ofreciendo una solución ligera y profesional para el manejo de datos personales o técnicos.
+
+![Versión](https://img.shields.io/badge/Versión-1.0-blue)
+![Java](https://img.shields.io/badge/Java-compatible-informational)
+![Obra](https://img.shields.io/badge/Obra-ob6.1es-purple)
+![Estado](https://img.shields.io/badge/Estado-Estable-brightgreen)
+![Formato](https://img.shields.io/badge/Formato-.JAR-lightgrey)
+[![Requiere](https://img.shields.io/badge/Requiere-Java%20JRE-orange)](https://www.java.com/es/download/)
+
+
+**Repositorio** https://github.com/ESRG-es/Brace
+
+|| **VERSIÓN** 1.0 Java |
+|-|-|
+|  **Descargar**  |https://drive.google.com/file/d/1UEi1pdNep1OdbixrrxkwQVBzWt7jJSbG/view?usp=sharing |
+|  **Descargar**  |https://mega.nz/file/nPQn2S6T#fXxmipGYvcO0rYIxw5_ETbTsiD9QRDknDq08SGYTu1I | 
+|  **Descargar**  |https://www.mediafire.com/file/38kt7jtmso82tqz/Brace_%255BVersi%25C3%25B3n_1.0_JAva%255D.zip/file |
+
+>⚠️ Requiere Java Runtime Environment (JRE) versión 8 o superior para ejecutarse.
+
+<img src="assets/braceR_137,0,0.png" width="40"/>
+
+---
  
 <img src="assets/esrg.png" width="80"/> <img src="assets/braceL_137,0,0.png" width="40"/>  
 
